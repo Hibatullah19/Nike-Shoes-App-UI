@@ -13,10 +13,10 @@ A modern and clean Flutter UI for a shoes shopping application inspired by Nike 
 ## 📸 Screenshots
 
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](screenshots/homee.png)
 
 ### Products Section
-![Products](screenshots/products.png)
+![Products](screenshots/product.png)
 
 ## 🛠️ Built With
 - Flutter
